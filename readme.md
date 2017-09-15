@@ -1,5 +1,7 @@
 # TP minichat
 
 Creation of a minichat with :
-1 php
-2 phpMyAdmin
+* transmission de variables via un formulaire
+* lire dans une table
+* écrire dans une table
+* utilisation de PDO et des requêtes préparées
