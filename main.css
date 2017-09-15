@@ -1,0 +1,27 @@
+body {
+	background-color: grey;
+}
+
+header, form, form p, input {
+	/*background-color: darkgrey;*/
+	text-align: center;
+}
+
+form {
+	background-color: black;
+	color: white;
+	border-radius: 5px;
+}
+
+input{
+
+}
+
+input[type='submit']{
+	color: black;
+}
+
+article p{
+	background-color: white;
+	border-radius: 5px;
+}
